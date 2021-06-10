@@ -1,6 +1,6 @@
 certifi==2018.11.29
 chardet==3.0.4
-Django==2.0.9
+Django==2.2.24
 idna==2.5
 mysqlclient==1.3.13
 newsapi-python==0.2.3
